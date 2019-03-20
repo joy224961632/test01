@@ -1,0 +1,17 @@
+D:\highschooltopic\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\highschooltopic\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\highschooltopic\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\highschooltopic\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\highschooltopic\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\MainWindow.baml
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\App.g.cs
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+D:\highschooltopic\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
